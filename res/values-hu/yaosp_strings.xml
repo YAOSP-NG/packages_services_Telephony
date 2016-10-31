@@ -32,7 +32,7 @@
     <string name="flip_action_summary">A telefon lefordítva <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Values for flip action array entries -->
-    <string name="entry_do_nothing">Ne történjen semmi</string>
+    <string name="entry_do_nothing">Nem történik semmi</string>
     <string name="entry_mute_ringer">Csengés elnémítása</string>
     <string name="entry_dismiss_call">Hívás elutasítása</string>
     <string name="summary_do_nothing">A fordítási műveletre nem történik semmi</string>
