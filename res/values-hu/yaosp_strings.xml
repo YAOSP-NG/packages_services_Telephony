@@ -13,29 +13,29 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Proximity speaker -->
-    <string name="display_category_prox_auto_speaker_title">Proximity speaker settings</string>
-    <string name="prox_auto_speaker_title">Automatic proximity speaker</string>
-    <string name="prox_auto_speaker_summary">Enable speakerphone when the device is removed from your face</string>
-    <string name="prox_auto_speaker_delay_title">Proximity speaker delay</string>
-    <string name="prox_auto_speaker_delay_summary">Time delay before speaker is activated</string>
-    <string name="prox_auto_speaker_incall_only_title">Only while in call</string>
-    <string name="prox_auto_speaker_incall_only_summary_on">On outgoing calls, listener will only become active after the receiving party answers</string>
-    <string name="prox_auto_speaker_incall_only_summary_off">Listener will be active during all offhook call states (default)</string>
+    <string name="display_category_prox_auto_speaker_title">Közelség hangszóró beállítások</string>
+    <string name="prox_auto_speaker_title">Automatikus közelség hangszóró</string>
+    <string name="prox_auto_speaker_summary">Hangszóró engedélyezése, ha a telefon a fejtől eltávolodik</string>
+    <string name="prox_auto_speaker_delay_title">Közelségi hangszóró késleltetés</string>
+    <string name="prox_auto_speaker_delay_summary">Késleltetés, mielőtt a hangszóró aktiválódna</string>
+    <string name="prox_auto_speaker_incall_only_title">Csak hívás közben</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">A kimenő hívások esetén a hallgató csak akkor lesz aktív, ha a fogadó fél válaszolt</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">A hallgató aktív lesz az összes felvett telefonhívásnál (alapértelmezett)</string>
 
     <!-- Setting title for the flip action setting. -->
-    <string name="flip_action_title">Flip action</string>
+    <string name="flip_action_title">Fordítási művelet csengés közben</string>
 
     <!-- Dialog title of the flip action setting. -->
-    <string name="flip_action_dialog_title">Flip device to\u2026</string>
+    <string name="flip_action_dialog_title">Készülék felfordítva\u2026</string>
 
     <!-- Setting summary for the flip action setting. -->
     <string name="flip_action_summary">Flipping the phone down will <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Values for flip action array entries -->
-    <string name="entry_do_nothing">Do nothing</string>
-    <string name="entry_mute_ringer">Mute ringer</string>
-    <string name="entry_dismiss_call">Dismiss call</string>
-    <string name="summary_do_nothing">do nothing</string>
+    <string name="entry_do_nothing">Ne tegyen semmit</string>
+    <string name="entry_mute_ringer">Csengés elnémításar</string>
+    <string name="entry_dismiss_call">Hívás elutasítása</string>
+    <string name="summary_do_nothing">A készülék lefordítva nem csinál semmit</string>
     <string name="summary_mute_ringer">mute the ringer</string>
     <string name="summary_dismiss_call">dismiss the call</string>
 
