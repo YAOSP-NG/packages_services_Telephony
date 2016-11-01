@@ -23,10 +23,10 @@
     <string name="prox_auto_speaker_incall_only_summary_off">A kihangosító mód aktív lesz az összes bejövő hívásnál (alapértelmezett)</string>
 
     <!-- Setting title for the flip action setting. -->
-    <string name="flip_action_title">Fordítási művelet</string>
+    <string name="flip_action_title">Lefordítási művelet</string>
 
     <!-- Dialog title of the flip action setting. -->
-    <string name="flip_action_dialog_title">A telefon felfordítva\u2026</string>
+    <string name="flip_action_dialog_title">Fordítsd le a telefont\u2026</string>
 
     <!-- Setting summary for the flip action setting. -->
     <string name="flip_action_summary">A telefon lefordítva <xliff:g id="action">%s</xliff:g></string>
