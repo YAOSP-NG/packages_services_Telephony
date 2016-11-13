@@ -26,18 +26,18 @@
     <string name="flip_action_title">Lefordítási művelet</string>
 
     <!-- Dialog title of the flip action setting. -->
-    <string name="flip_action_dialog_title">Fordítsd le a telefont\u2026</string>
+    <string name="flip_action_dialog_title">A telefon lefordításakor\u2026</string>
 
     <!-- Setting summary for the flip action setting. -->
-    <string name="flip_action_summary">A telefon lefordítva <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary">A lefordítási műveletre <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Values for flip action array entries -->
     <string name="entry_do_nothing">Nem történik semmi</string>
     <string name="entry_mute_ringer">Csengés elnémítása</string>
     <string name="entry_dismiss_call">Hívás elutasítása</string>
-    <string name="summary_do_nothing">A fordítási műveletre nem történik semmi</string>
-    <string name="summary_mute_ringer">Elnémítja a csengést</string>
-    <string name="summary_dismiss_call">A bejövő hívásokat elutasítja</string>
+    <string name="summary_do_nothing">nem történik semmi</string>
+    <string name="summary_mute_ringer">elnémítja a csengést</string>
+    <string name="summary_dismiss_call">a bejövő hívásokat elutasítja</string>
 
     <!-- Title for the option managing whether or not to use intrusive incall UI. -->
     <string name="use_intrusive_call_title">Tolakodó bejövő hívás</string>
