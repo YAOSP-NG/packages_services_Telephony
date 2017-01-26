@@ -17,7 +17,7 @@
     <string name="prox_auto_speaker_title">Automatikus kihangosító mód</string>
     <string name="prox_auto_speaker_summary">Ha a telefon az arctól eltávolodik, a kihangosító mód automatikusan bekapcsol</string>
     <string name="prox_auto_speaker_delay_title">Kihangosító mód késleltetés</string>
-    <string name="prox_auto_speaker_delay_summary">Idő, mielőtt a kihangosító mód aktiválódna</string>
+    <string name="prox_auto_speaker_delay_summary">Idő, miután a kihangosító mód aktiválódik</string>
     <string name="prox_auto_speaker_incall_only_title">Csak hívás közben</string>
     <string name="prox_auto_speaker_incall_only_summary_on">A kimenő hívások esetén a kihangosító mód csak akkor lesz aktív, ha a fogadó fél válaszolt</string>
     <string name="prox_auto_speaker_incall_only_summary_off">A kihangosító mód az összes bejövő hívásnál aktív (alapértelmezett)</string>
